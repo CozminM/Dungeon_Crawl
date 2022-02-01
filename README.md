@@ -31,21 +31,25 @@ a key to be opened) and battle with various types of monsters, each with their u
 Application features include:
 
 - Main menu, where you can name your hero<br/><br/>
-  <img src="https://raw.githubusercontent.com/CozminM/Dungeon_Crawl/master/public/.png" height="500" width="auto">
+  <img src="https://raw.githubusercontent.com/CozminM/Dungeon_Crawl/master/public/main-menu.png" height="500" width="auto">
   <br/>
   <br/>
   <br/>
 
 - Save/load functionality, so you can take a break and come back to the same point you left<br/><br/>
-  <img src="https://raw.githubusercontent.com/CozminM/Dungeon_Crawl/master/public/.png" height="500" width="auto">
+  <img src="https://raw.githubusercontent.com/CozminM/Dungeon_Crawl/master/public/save-menu.png" height="500" width="auto">
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/CozminM/Dungeon_Crawl/master/public/load-menu.png" height="500" width="auto">
   <br/><br/><br/>
 
 - Multiple maps, items and monsters you can encounter during your adventures<br/><br/>
-  <img src="https://raw.githubusercontent.com/CozminM/Dungeon_Crawl/master/public/.png" height="500" width="auto">
+  <img src="https://raw.githubusercontent.com/CozminM/Dungeon_Crawl/master/public/first-map.png" height="500" width="auto">
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/CozminM/Dungeon_Crawl/master/public/last-map.png" height="500" width="auto">
   <br/><br/><br/>
 
 - Win by saving the princess or die if the monsters reduce your life points to 0 <br/><br/>
-  <img src="https://raw.githubusercontent.com/CozminM/Dungeon_Crawl/master/public/.png" height="500" width="auto">
+  <img src="https://raw.githubusercontent.com/CozminM/Dungeon_Crawl/master/public/end-menu.png" height="500" width="auto">
   <br/><br/><br/>
 
 ## Future implementation
